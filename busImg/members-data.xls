@@ -1,0 +1,32 @@
+<table id="tblData">
+                    <tbody><tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Country</th>
+                    </tr>
+                    <tr>
+                        <td>John Doe</td>
+                        <td>john@gmail.com</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Michael&nbsp;Addison</td>
+                        <td>michael@gmail.com</td>
+                        <td>UK</td>
+                    </tr>
+                    <tr>
+                        <td>Sam&nbsp;Farmer</td>
+                        <td>sam@gmail.com</td>
+                        <td>France</td>
+                    </tr>
+                    <tr>
+                        <td>Christian Gray</td>
+                        <td>christian@gmail.com</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Oscar P Ward</td>
+                        <td>oscar.pward@gmail.com</td>
+                        <td>UK</td>
+                    </tr>
+                </tbody></table>
